@@ -22,9 +22,11 @@ Este repositorio contiene el material del curso virtual de Python dictado en la 
 
 ## Classes [▲](#top) <a id="classes">
 
-- [00 introducción a Python](clases/00_introduccion_a_python.md)
-- [01 variables y tipos de datos](clases/01_variables_en_python.md)
-- [02 estructuras de control](clases/02_estructuras_de_control.md)
+- [00 introducción a Python](clases/00_introduccion_python.md): Una introducción a Python, un lenguaje de programación de alto nivel, interpretado, de tipado dinámico y multiparadigma.
+
+- [01 variables y tipos de datos](clases/01_variables_en_python.md): Una introducción a las variables y tipos de datos en Python.
+
+- [02 estructuras de control](clases/02_estructuras_de_control.md): Una introducción a las estructuras de control en Python, if, for, while y match.
 
 
 ## Technologies [▲](#top) <a id="technologies">
