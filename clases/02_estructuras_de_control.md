@@ -1,4 +1,8 @@
+NOTA: El notebook de esta clase está disponible como [02_estructuras_de_control.ipynb](02_estructuras_de_control.ipynb) en este repositorio.
+
+---
 # Estructuras de Control en Python
+
 
 Las estructuras de control son bloques de código que permiten controlar el flujo de ejecución de un programa. En Python, existen tres estructuras de control principales: `if`, `for` y `while`.
 
@@ -103,3 +107,6 @@ En el ejemplo anterior, el bloque de código 1 se ejecutará si el valor de la v
 
 *NOTA: La estructura de control `match` está disponible a partir de Python 3.10.*
 
+---
+
+[◀ Anterior: Variables y Tipos de Datos](01_variables_en_python.md) | [🔼](#top) | [Siguiente: Funciones ▶](03_funciones.md)

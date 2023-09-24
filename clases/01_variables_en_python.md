@@ -1,3 +1,6 @@
+NOTA: El notebook de esta clase está disponible como [01_variables_en_python.ipynb](01_variables_en_python.ipynb) en este repositorio.
+
+---
 # Variables en Python
 
 ## ¿Qué es una variable?
@@ -215,3 +218,7 @@ Los operadores con asignación se utilizan para realizar operaciones con asignac
 - **Módulo y asignación (%=):** El operador de módulo y asignación se utiliza para obtener el resto de una división y asignar el resultado a la misma variable, como `x %= 1`, es la forma simplificada de `x = x % 1`, `y %= 2`, es la forma simplificada de `y = y % 2`, etc.
 
 - **Exponente y asignación (**=):** El operador de exponente y asignación se utiliza para elevar un valor a una potencia y asignar el resultado a la misma variable, como `x **= 1`, es la forma simplificada de `x = x ** 1`, `y **= 2`, es la forma simplificada de `y = y ** 2`, etc.
+
+---
+
+[◀ Anterior: Introducción a Python](00_introduccion_python.md) | [🔼](#top) | [Siguiente: Estructuras de control ▶](02_estructuras_de_control.md)

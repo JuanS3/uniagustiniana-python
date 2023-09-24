@@ -77,3 +77,6 @@ Python se utiliza para una amplia gama de tareas, entre las que se incluyen:
 ## Conclusiones
 
 Python es un lenguaje de programación poderoso y versátil que tiene una serie de características que lo hacen una buena opción para una amplia gama de tareas. Es un lenguaje ideal para principiantes, ya que es fácil de aprender y tiene una gran comunidad de soporte.
+
+---
+[◀ Anterior: Clases](README.md) | [🔼](#top) | [Siguiente: Variables y tipos de datos en Python ▶](01_variables_en_python.md)
