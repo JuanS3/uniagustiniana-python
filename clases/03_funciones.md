@@ -1,3 +1,7 @@
+NOTA: El notebook de esta clase está disponible como [03_funciones.ipynb](03_funciones.ipynb) en este repositorio.
+
+---
+
 # Funciones en Python
 
 Una función es un bloque de código que se puede ejecutar varias veces. Una función puede tener parámetros y puede devolver un valor.
@@ -97,7 +101,31 @@ print(sumar(a=2, b=3))
 print(sumar(b=3, a=2))
 ```
 
+En el ejemplo anterior, la función `resta` toma dos parámetros, `a` y `b`, y devuelve la resta de los dos parámetros. La función se llama con los argumentos `a=2` y `b=3`, por lo que devuelve `-1`. La función también se llama con los argumentos `b=3` y `a=2`, por lo que devuelve `-1`.
+
+# Ejercicios
+
+## Ejercicio 1
+
+Escribir una función que tome como parámetro un número entero y devuelva `True` si el número es par y `False` si el número es impar.
+
+## Ejercicio 2
+
+Escribir una función que tome como parámetro un número entero y devuelva `True` si el número es primo y `False` si el número no es primo.
+
+## Ejercicio 3
+
+Escribir una función que tome como parámetro un número entero y devuelva una lista con todos los números primos menores o iguales que el número pasado como parámetro.
+
+## Ejercicio 4
+
+Escribir una función que tome como parámetro un número entero y devuelva una lista con todos los números primos menores o iguales que el número pasado como parámetro.
+
+## Ejercicio 5
+
+Escribir una función que tome como parámetro un número entero y devuelva una lista con todos los números primos menores o iguales que el número pasado como parámetro.
+
 ---
 
 
-[◀ Anterior: Variables y Tipos de Datos](01_variables_en_python.md) | [🔼](#top) | [Siguiente: Estructuras de Datos ▶](04_estructuras_de_datos.md)
+[◀ Anterior: Variables y Tipos de Datos](01_variables_en_python.md) | [🔼](#top) | [Siguiente: Recursividad ▶](04_recursividad.md)
