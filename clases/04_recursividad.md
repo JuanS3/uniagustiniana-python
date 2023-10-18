@@ -52,7 +52,7 @@ def factorial(n):
 
 En este ejemplo, el caso base es cuando `n` es `0` o `1`, en cuyo caso el factorial es `1`. En el caso recursivo, la función se llama a sí misma con `n - 1` y se multiplica por `n`. Esto continúa hasta que `n` es `0` o `1`, momento en el que la función comienza a regresar resultados.
 
+---
 
 
-
-
+[◀ Anterior: Funciones](03_funciones.md) | [🔼](#top) | [Siguiente: Arreglos ▶](05_Arreglos.md)
