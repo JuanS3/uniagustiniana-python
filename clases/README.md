@@ -47,19 +47,19 @@ Un arreglo es una estructura de datos que contiene una colección de elementos d
 Los diccionarios en Python son estructuras de datos extremadamente versátiles y ampliamente utilizadas. Un diccionario es una **colección no ordenada** de pares **clave**-**valor**. Cada elemento se almacena como un par de valores, donde una clave única se asigna a un valor.
 
 
-## 7️⃣ [Clases y Objetos](../clases/07_clases_y_objetos.md)
+## 7️⃣ [Archivos](../clases/07_archivos.md)
+Los archivos son objetos que se utilizan para almacenar datos de forma permanente en un disco duro o en otro dispositivo de almacenamiento. En Python, los archivos se pueden abrir en modo de texto o modo binario. En el modo de texto, los datos se codifican utilizando un formato de texto, como ASCII o UTF-8. En el modo binario, los datos se codifican utilizando un formato binario, como UTF-16 o UTF-32.
+
+
+## 8️⃣ [Excepciones](../clases/08_excepciones.md)
+Las excepciones son errores que ocurren durante la ejecución de un programa. Las excepciones pueden ser manejadas para evitar que el programa se detenga abruptamente. En Python, las excepciones se manejan utilizando las palabras clave **`try`**, **`except`**, **`else`** y **`finally`**.
+
+
+## 9️⃣ [Clases y Objetos](../clases/07_clases_y_objetos.md)
 pendiente
 
 
-## 8️⃣ [Módulos](../clases/08_modulos.md)
-pendiente
-
-
-## 9️⃣ [Excepciones](../clases/09_excepciones.md)
-pendiente
-
-
-## 🔟 [Archivos](../clases/10_archivos.md)
+## 🔟 [Módulos](../clases/08_modulos.md)
 pendiente
 
 

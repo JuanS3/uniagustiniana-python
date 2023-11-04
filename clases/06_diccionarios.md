@@ -95,4 +95,4 @@ En resumen, los diccionarios son una herramienta poderosa en Python que permite 
 ---
 
 
-[◀ Anterior: Arreglos](05_Arreglos.md) | [🔼](#top) | [Siguiente: Clases ▶](07_clases.md)
+[◀ Anterior: Arreglos](05_Arreglos.md) | [🔼](#top) | [Siguiente: Archivos ▶](07_archivos.md)
